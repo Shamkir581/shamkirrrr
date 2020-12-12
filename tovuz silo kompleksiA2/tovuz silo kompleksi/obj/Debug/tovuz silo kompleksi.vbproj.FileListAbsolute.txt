@@ -1,0 +1,215 @@
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\visual studio\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\proqramlar\tovuz silo kompleksi\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi3\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi4\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi5\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi6\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Form1.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi7\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\bin\Debug\EasyModbus.dll
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.elek.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\New folder\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.elek.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl2.resources
+C:\Users\User\Desktop\tovuz silo kompleksi8\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Shifreni_deyis2.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl2.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.elek.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Shifreni_deyis2.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksiSon12\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe.config
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.pdb
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\bin\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl1.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.DaxilOl2.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.elek.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.hadiseler.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.MehsulAdiDeyis.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Resources.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Shifreni_deyis2.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz_silo_kompleksi.Sifrenideyis1.resources
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.vbproj.CopyComplete
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.exe
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.xml
+C:\Users\User\Desktop\tovuz silo kompleksiA2\tovuz silo kompleksi\obj\Debug\tovuz silo kompleksi.pdb
